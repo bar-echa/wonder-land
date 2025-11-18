@@ -1,0 +1,14 @@
+C:\Users\barec\source\repos\console21\console21\bin\Debug\net8.0\console21.exe
+C:\Users\barec\source\repos\console21\console21\bin\Debug\net8.0\console21.deps.json
+C:\Users\barec\source\repos\console21\console21\bin\Debug\net8.0\console21.runtimeconfig.json
+C:\Users\barec\source\repos\console21\console21\bin\Debug\net8.0\console21.dll
+C:\Users\barec\source\repos\console21\console21\bin\Debug\net8.0\console21.pdb
+C:\Users\barec\source\repos\console21\console21\obj\Debug\net8.0\console21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barec\source\repos\console21\console21\obj\Debug\net8.0\console21.AssemblyInfoInputs.cache
+C:\Users\barec\source\repos\console21\console21\obj\Debug\net8.0\console21.AssemblyInfo.cs
+C:\Users\barec\source\repos\console21\console21\obj\Debug\net8.0\console21.csproj.CoreCompileInputs.cache
+C:\Users\barec\source\repos\console21\console21\obj\Debug\net8.0\console21.dll
+C:\Users\barec\source\repos\console21\console21\obj\Debug\net8.0\refint\console21.dll
+C:\Users\barec\source\repos\console21\console21\obj\Debug\net8.0\console21.pdb
+C:\Users\barec\source\repos\console21\console21\obj\Debug\net8.0\console21.genruntimeconfig.cache
+C:\Users\barec\source\repos\console21\console21\obj\Debug\net8.0\ref\console21.dll
